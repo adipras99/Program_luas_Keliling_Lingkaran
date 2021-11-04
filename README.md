@@ -6,8 +6,9 @@ Mengubah r menjadi bialngan rill deng fungsi float
 Mengambil nilai _pi_ dengan fungsi math
 Menginput Rumus luas dan keliling
 
-//Hasil pemograman
+//Hasil pemograman "<p>"
 
+![img]Screenshot(40).png
 import math
 r = float(input("masukan jari jari : "))
 
