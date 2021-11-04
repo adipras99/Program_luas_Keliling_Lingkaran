@@ -8,7 +8,7 @@ Menginput Rumus luas dan keliling
 
 //Hasil pemograman "<p>"
 
-![img]pic/Screenshot40.png
+![Gambar 1](pic/Screenshot40.png)
 import math
 r = float(input("masukan jari jari : "))
 
