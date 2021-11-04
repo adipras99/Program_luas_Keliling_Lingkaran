@@ -18,3 +18,6 @@ keliling = 2*math.pi*r
 print("luas lingkaran \t\t=",luas)
 print("keliling lingkaran \t= ", keliling)
 
+// Berikut Tampilan Flowchart 
+
+![Gambar 2](pic/ss2.png)
